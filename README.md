@@ -88,7 +88,7 @@ L'expérience Meteor est conçue pour être la plus simple possible : **Branchez
 Pour consulter vos graphiques en temps réel ou l'historique de vos sorties :
 1 - Connectez-vous à l'adresse suivante : https://station-metor.com
 
-2 - Connectez-vous avec les identifiants et mot de passe qui vous ont été fournis lors de votre achat. (Compte pour tester -> user : michou | passw: michou)
+2 - Connectez-vous avec les identifiants et mot de passe qui vous ont été fournis lors de votre achat.
 
 3 - Votre tableau de bord personnalisé s'affichera avec toutes les données de votre boîtier.
 
