@@ -1,8 +1,8 @@
 [
   {
-    "name": "Anto-portable",
-    "ssid": "Anto-portable",
-    "password": "antocarry"
+    "name": "test",
+    "ssid": "test",
+    "password": "test"
   },
   {
     "name": "Port-de_test",
@@ -10,8 +10,8 @@
     "password": "test"
   },
   {
-    "name": "Port-de_telephone_de_bibi",
-    "ssid": "Techgridy",
-    "password": "pizza123"
+    "name": "test",
+    "ssid": "test",
+    "password": "test"
   }
 ]
