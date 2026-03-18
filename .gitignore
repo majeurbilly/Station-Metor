@@ -188,7 +188,3 @@ install_manifest.txt
 *.log
 *.tmp
 *.cache
-
-# --- Config ---
-Config.h
-platformio.ini
