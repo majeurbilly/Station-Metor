@@ -8,8 +8,6 @@
   <h3 align="center">Métor 🦆</h3>
 
   <p align="center">
-  Lien YouTube #1 : https://www.youtube.com/watch?v=da9BHwP3C0A  <br />
-  Lien YouTube #2 (publicite) : https://youtube.com/shorts/qebR7up1-s0?si=wxXLTP1FFLoq1OWO
     <br />
     <a href="#about"><strong>Explore the screenshots »</strong></a>
       <br />
