@@ -1,0 +1,7 @@
+{
+  "mqtt_host": "7e617335f44d40a3a5e76f9f54c7b194.s1.eu.hivemq.cloud",
+  "mqtt_port": 8883,
+  "mqtt_user": "esp32-stationMeteo",
+  "mqtt_password": "Ma50!kefrvi",
+  "boite_id": 2
+}
