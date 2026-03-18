@@ -12,11 +12,11 @@
     <a href="#about"><strong>Explore the screenshots »</strong></a>
       <br />
       <br />
-      <a href="https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/r-ab_bh/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+      <a href="https://github.com/majeurbilly/Station-Metor/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
       ·
-      <a href="https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/r-ab_bh/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+      <a href="https://github.com/majeurbilly/Station-Metor/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
       ·
-      <a href="https://github.com/DFC-Informatique-Cegep-de-Sainte-Foy/r-ab_bh/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
+      <a href="https://github.com/majeurbilly/Station-Metor/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
   </p>
 </div>
 
