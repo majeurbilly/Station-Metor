@@ -126,14 +126,6 @@ Tableau de bord de Home Assistant :
 ## Auteurs & contributeurs
 
 * [Billy Hallé](https://github.com/majeurbilly/)
-* [Antony Burlet](https://github.com/AntonyBurlet/)
-
-## Remerciements
-
-Remerciment:
-
-* [Madame Michou](https://avatars.githubusercontent.com/u/7636441?v=4)
-* [La vie](https://youtu.be/uW3gShN8als?si=bVX2vbbrAz9wvg7u&t=1798/)
 
 <p align="right">(<a href="#">retour en haut</a>)</p>
 
